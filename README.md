@@ -12,7 +12,7 @@ The objective is to transform raw data into meaningful insights that support bet
 
 * Dataset: *Customer Shopping Behavior*
 * Source: *UCI Repository*
-* Format: CSV / Excel
+* Format: CSV
 * Description: The dataset contains information used to perform data analysis, identify trends, and generate actionable insights.
 
 ---
