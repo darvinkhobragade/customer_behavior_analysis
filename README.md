@@ -10,8 +10,8 @@ The objective is to transform raw data into meaningful insights that support bet
 
 ## Dataset
 
-* Dataset: *(Add your dataset name here)*
-* Source: *(Kaggle, UCI Repository, Company Data, etc.)*
+* Dataset: *Customer Shopping Behavior*
+* Source: *UCI Repository*
 * Format: CSV / Excel
 * Description: The dataset contains information used to perform data analysis, identify trends, and generate actionable insights.
 
